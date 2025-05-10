@@ -64,6 +64,11 @@ Step 9: Visualize the Decision Tree
 
 Finally, the decision tree is visualized using the `plot_tree()` function from Scikit-Learn. This function generates a graphical representation of the decision tree, showing how decisions are made based on the features. The `filled=True` parameter colors the nodes based on the predicted class, while `feature_names` and `class_names` provide labels for the features and target classes, respectively. The visualization helps in understanding the decision-making process of the model and can be useful for interpreting the results.
 
-### Conclusion
+Conclusion
 
 In summary, this code provides a comprehensive workflow for building and visualizing a decision tree model using Scikit-Learn
+
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/459a63df-7f89-423e-b69b-d3a2139c9dbf)
